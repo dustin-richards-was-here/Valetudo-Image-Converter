@@ -1,13 +1,10 @@
 {
-  "name": "valetudo-minecraft-mapper",
-  "version": "2021.03.0",
-  "description": "Create a Minecraft Map from your Valetudo Map",
+  "name": "valetudo-image-converter",
+  "version": "2024.12.0",
+  "description": "Create a binary PPM image from your Valetudo Map",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypfer/Valetudo-Minecraft-Mapper.git"
-  },
-  "dependencies": {
-    "node-anvil": "^1.2.0"
+    "url": "git+https://github.com/dustin-richards-was-here/Valetudo-Image-Converter.git"
   }
 }
